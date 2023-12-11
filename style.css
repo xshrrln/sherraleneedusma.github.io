@@ -367,7 +367,7 @@ article p{
 article{
     margin-left: 10%;
 }
-@media (max-width: 768px) {
+@media screen (max-width: 768px) {
     nav .checkbox {
         display: block;
     }
